@@ -1,16 +1,37 @@
-# world_time_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Modern World Time Tracker
 
-A few resources to get you started if this is your first Flutter project:
+[![Flutter](https://img.shields.io/badge/Flutter-3.38.6-blue?logo=flutter)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-3.10-blue?logo=dart)](https://dart.dev/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+An app to track multiple time zones with an interactive world map.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔹 
+
+
+# 📂 Estructura del proyecto
+
+```bash
+assets/                  # Imágenes y recursos
+docs/                    # Capturas de pantalla y GIFs para README
+lib/
+├── main.dart            # Punto de entrada
+├── core/                # Configuraciones y constantes generales
+├── data/                # Modelos y repositorios de datos
+├── providers/           # Providers de estado
+├── ui/                  # Pantallas y widgets
+└── util/                # Utilidades y helpers (ej. Images.dart)
+
+```
+
+## 💻 Capturas de pantalla
+<!-- <img src="docs/home.jpeg" alt="Pantalla principal" width="200"/> <img src="docs/play.jpeg" alt="Pantalla principal" width="200"/> <img src="docs/config.jpeg" alt="Pantalla principal" width="200"/> -->
+
+
+## 🎨 Inspiración de diseño
+
+This project is
+
+
