@@ -9,7 +9,7 @@
 An app to track multiple time zones with an interactive world map.
 
 🔹 Features
-- Time API usage
+- Time API usage / use provider
 - Multiple Time Track
 - Add new time zone
 
