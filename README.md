@@ -14,15 +14,15 @@ An app to track multiple time zones with an interactive world map.
 # 📂Project Structure
 
 ```bash
-assets/                  # Imágenes y recursos
-docs/                    # Capturas de pantalla y GIFs para README
+assets/                  # Images and resources
+docs/                    # Screenshots for readme
 lib/
-├── main.dart            # Punto de entrada
-├── core/                # Configuraciones y constantes generales
-├── data/                # Modelos y repositorios de datos
-├── providers/           # Providers de estado
-├── ui/                  # Pantallas y widgets
-└── util/                # Utilidades y helpers (ej. Images.dart)
+├── main.dart            # main
+├── config/              # General settings and constants
+├── models/              # Data models and repositories
+├── providers/           # State providers
+├── screens/             # Screens and widgets
+└── widgets
 
 ```
 
