@@ -27,7 +27,9 @@ lib/
 ```
 
 ## 💻 Screenshots
-<!-- <img src="docs/home.jpeg" alt="Pantalla principal" width="200"/> <img src="docs/play.jpeg" alt="Pantalla principal" width="200"/> <img src="docs/config.jpeg" alt="Pantalla principal" width="200"/> -->
+<img src="docs/screens/screen_1.png" alt="Pantalla principal" width="200"/> 
+<!-- 
+<img src="docs/play.jpeg" alt="Pantalla principal" width="200"/> <img src="docs/config.jpeg" alt="Pantalla principal" width="200"/> 
 
 
 ## 🎨 Design Inspired
