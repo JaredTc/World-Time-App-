@@ -30,7 +30,7 @@ lib/
 <img src="docs/screen_1.png" alt="Pantalla principal" width="200"/> 
 <!-- 
 <img src="docs/play.jpeg" alt="Pantalla principal" width="200"/> <img src="docs/config.jpeg" alt="Pantalla principal" width="200"/> 
-
+-->
 
 ## 🎨 Design Inspired
 
