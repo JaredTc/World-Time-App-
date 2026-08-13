@@ -1,7 +1,7 @@
 
 
 
-# Modern World Time Tracker
+# 🌐 Modern World Time Tracker
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.38.6-blue?logo=flutter)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.10-blue?logo=dart)](https://dart.dev/)
@@ -11,7 +11,7 @@ An app to track multiple time zones with an interactive world map.
 🔹 
 
 
-# 📂 Estructura del proyecto
+# 📂Project Structure
 
 ```bash
 assets/                  # Imágenes y recursos
@@ -26,11 +26,11 @@ lib/
 
 ```
 
-## 💻 Capturas de pantalla
+## 💻 Screenshots
 <!-- <img src="docs/home.jpeg" alt="Pantalla principal" width="200"/> <img src="docs/play.jpeg" alt="Pantalla principal" width="200"/> <img src="docs/config.jpeg" alt="Pantalla principal" width="200"/> -->
 
 
-## 🎨 Inspiración de diseño
+## 🎨 Design Inspired
 
 This project is
 
