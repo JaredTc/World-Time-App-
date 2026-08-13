@@ -8,7 +8,10 @@
 
 An app to track multiple time zones with an interactive world map.
 
-🔹 
+🔹 Features
+- Time API usage
+- Multiple Time Track
+- Add new time zone
 
 
 # 📂Project Structure
